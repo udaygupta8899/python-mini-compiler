@@ -29,7 +29,7 @@ pip install streamlit
 3. Run the Streamlit app using:
 
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run app.py
    ```
 
 4. Your browser should automatically open to the app interface. If not, follow the local URL provided in the terminal.
