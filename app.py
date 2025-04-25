@@ -2,7 +2,6 @@ import streamlit as st
 import sys
 import io
 
-# Set page config with a custom title, icon, and wide layout
 st.set_page_config(
     page_title="My Custom Mini Compiler",
     page_icon=":rocket:",
